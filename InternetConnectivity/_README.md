@@ -1,4 +1,4 @@
-Here's a README.md file for the `InternetConnectivity.ps1` script:
+README.md file for the `InternetConnectivity.ps1` script:
 
 ```markdown
 # InternetConnectivity.ps1 README
