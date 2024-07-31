@@ -71,10 +71,5 @@ TCP    192.168.1.2:49152      192.168.1.1:80         ESTABLISHED
   Set-ExecutionPolicy RemoteSigned
   ```
 
-## Contact
-
-For further assistance or to report issues, please contact Ian.Peto@Broadcom.com.
-
----
-
-This README file provides essential information on how to use and troubleshoot the `CheckNetstat.ps1` PowerShell script. If you have any further questions, please feel free to reach out.
+## Disclaimer
+This script is provided as-is without any warranties. Use it at your own risk. The author is not responsible for any damage or issues that may arise from using this script.
